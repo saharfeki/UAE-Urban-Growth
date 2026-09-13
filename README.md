@@ -1,4 +1,4 @@
-# 🇦🇪 UAE Urban Growth & Land Cover Analysis
+#  UAE Urban Growth & Land Cover Analysis
 
 A collection of geospatial projects focused on **urban growth, land cover classification, and spatial analysis across the United Arab Emirates** using Sentinel-2 imagery, Google Earth Engine, OpenStreetMap, and machine learning.
 
