@@ -15,7 +15,7 @@ A capstone project analyzing urban growth dynamics across the UAE using **Sentin
 - Change detection
 - GIS visualization
 
-[📁 View Project →](./UAE-Urban-Growth-2018-2024 _1.0/)
+[📁 View Project →](./UAE-Urban-Growth-2018-2024_1.0/)
 
 ---
 
@@ -38,7 +38,7 @@ An automated workflow for classifying land cover across the UAE using **Sentinel
 - 2021
 - 2024
 
-[📁 View Project →](./UAE-Urban-Growth-2018-2024 _2.0/)
+[📁 View Project →](./UAE-Urban-Growth-2018-2024%20_2.0/)
 
 ---
 
